@@ -23,5 +23,5 @@ This project focuses on implementing **game logic**, **DOM manipulation**, and *
 
 ---
 
-## 📂 Project Structure
+
 
